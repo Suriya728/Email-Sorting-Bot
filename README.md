@@ -23,3 +23,15 @@
 - โดยระบบจะดึงมาเฉพาะอีเมลที่สถานะยังไม่ได้อ่านเท่านั้น (UnreadOnly="True") 
 
 ![](Email-Sorting-Bot%20_Github/7.jpg)
+
+
+ขั้นตอนที่ 3: การวิเคราะห์และคัดแยกเงื่อนไข (If Condition & Processing) 
+
+![](Email-Sorting-Bot%20_Github/8.jpg)
+
+ขั้นตอนที่ 4: การบันทึกข้อมูลลง Excel (Data Logging)
+
+![](Email-Sorting-Bot%20_Github/9.jpg) 
+
+# ผลลัพธ์ที่ได้
+![](Email-Sorting-Bot%20_Github/10.jpg) 
