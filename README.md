@@ -6,3 +6,6 @@
 
 # AS-IS      -----------        TO-BE
 ![AS-IS](Email-Sorting-Bot%20_Github/5.jpg)
+
+# ขั้นตอนการทำงานของระบบของระบบคัดแยกเมล 
+![AS-IS](Email-Sorting-Bot%20_Github/6.jpg)
